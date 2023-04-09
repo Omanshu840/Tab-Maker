@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tab-Maker/static/css/main.28ff3abc.css",
+    "main.js": "/Tab-Maker/static/js/main.00324315.js",
+    "index.html": "/Tab-Maker/index.html",
+    "main.28ff3abc.css.map": "/Tab-Maker/static/css/main.28ff3abc.css.map",
+    "main.00324315.js.map": "/Tab-Maker/static/js/main.00324315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ff3abc.css",
+    "static/js/main.00324315.js"
+  ]
+}
